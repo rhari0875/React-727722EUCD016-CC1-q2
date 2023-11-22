@@ -1,0 +1,9 @@
+.des{
+    display:flex;
+    justify-content: center;
+}
+.dom{
+    border-color: brown;
+    border-collapse: collapse   ;
+    background-color: lightgreen;
+}
